@@ -1,2 +1,2 @@
-# Advent-of-code
-solutions of AOC in scala
+# SQL-game
+Web-based sql-game
